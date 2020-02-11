@@ -3,3 +3,4 @@
 # Gitチュートリ
 
  .feature-A
+ .fix-B
